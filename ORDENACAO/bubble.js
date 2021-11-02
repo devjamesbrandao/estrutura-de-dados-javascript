@@ -2,8 +2,9 @@
 
 function BubbleSort(){
 
-    var array = [5, 1, 2, 3, 4];
+    var array = [5, 1];
 
+    //Ajuda no processo de troca dos elementos
     var auxiliar = 0;
 
     for(var j = array.length - 1; j >= 0; j--){
@@ -27,3 +28,4 @@ function BubbleSort(){
 var ordenado = BubbleSort();
 
 console.log(ordenado);
+

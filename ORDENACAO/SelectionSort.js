@@ -8,6 +8,7 @@ function SelectionSort(){
 
     for(var i = 0; i < vetor.length - 1; i++){
 
+        // Esse valor fica fixo no laço
         var menor = i;
 
         for(var j = i + 1; j < vetor.length; j++){

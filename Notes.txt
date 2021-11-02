@@ -1,0 +1,7 @@
+BubbleSort: não recomendado para ordenar grandes quantidades de dados
+
+Complexidade de algoritmos: melhor caso N; pior caso N^2
+
+InsertionSort: Eficiente para conjuntos pequenos de dados; ordena em tempo real;
+
+Complexidade: melhor caso N; pior caso N^2;
