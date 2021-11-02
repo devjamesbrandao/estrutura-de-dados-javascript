@@ -1,8 +1,5 @@
 // Desafio: remover elementos duplicados de um array
 
-
-let a = [1, 5, 4, 3, 1, 2, 1, 3];
-
 // Solução 1: Ruim
 // Complexidade: O(n^2)
 function NoDuplicate1(array)
